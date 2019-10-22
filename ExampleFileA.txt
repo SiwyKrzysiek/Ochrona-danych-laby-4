@@ -1,0 +1,3 @@
+Note: There must be two spaces or a space and an asterisk between each md5sum value and filename to be compared (the second space indicates text mode, the asterisk binary mode). Otherwise, the following error will result: "no properly formatted MD5 checksum lines found". Many programs don't distinguish between the two modes, but some utils do.
+
+Note: The file must be also UNIX line ending formatted otherwise "md5sum: WARNING: x listed files could not be read" will be seen. 'dos2unix' will convert it quickly if it is DOS/Windows formatted.

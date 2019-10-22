@@ -1,0 +1,3 @@
+595f44fec1e92a71d3e9e77456ba80d1  filetohashA.txt
+71f920fa275127a7b60fa4d4d41432a3  filetohashB.txt
+43c191bf6d6c3f263a8cd0efd4a058ab  filetohashC.txt
